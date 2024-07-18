@@ -1,0 +1,26 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Utils */
+body {
+    font-family: Montserrat, 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+    font-family: 'Nerko One', cursive;
+}
+
+/* Header */
+.main-title {
+    display: flex;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: rgb(255, 150, 19);
+    text-shadow: 3px 3px 5px black;
+}
